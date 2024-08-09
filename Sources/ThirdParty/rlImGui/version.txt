@@ -1,0 +1,2 @@
+Version 30cd744e9d291644fc39d5b0fb79ad6c132f2b40 (master)
+Cloned from https://github.com/raylib-extras/rlImGui on 2024/04/26
